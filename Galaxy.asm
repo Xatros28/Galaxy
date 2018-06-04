@@ -37,8 +37,8 @@
  decenas db 0
  centenas db 0
   
- enemigo db '¾','$'
- aliado db 'è','$'
+ enemigo db 'Â¾','$'
+ aliado db 'Ã¨','$'
  
  posisionEneX db ?
  posisionEneY db ?
